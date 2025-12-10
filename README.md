@@ -70,6 +70,46 @@ The impact was evaluated on the key performance indicators: **Average Waiting Ti
 
 ---
 
+## 🛠️ Requirements
+
+To run this simulation, you will need:
+
+* **Python 3.80** or above
+
+### Libraries
+
+The following Python libraries are required for the simulation and data analysis/visualization:
+
+* `matplotlib`
+* `numpy`
+* `pandas`
+* `sea born`
+
+
+---
+
+## 📥 Installation
+
+You can clone or download the project files. Once you have the files, install the necessary dependencies using `pip`:
+
+```bash
+pip install matplotlib numpy pandas
+````
+
+## 🚀 Usage
+
+To run the simulation and view the results, execute the main Python script from your terminal:
+
+1.  **Clone the Repository:**
+    ```bash
+    git clone [https://github.com/ShamaShamini/Performance modelling ]
+    cd atm_visulaize
+    ```
+2.  **Run the Simulation:**
+    ```bash
+    python atm_visulaize.py
+    ```
+
 ## 📌 4. Analytical Results (M/M/2)
 
 The formulas below were used to derive the steady-state performance metrics (refer to Section 2 for formulas):
