@@ -209,4 +209,4 @@ The full analysis includes visual evidence supporting the findings:
 
 ---
 
-Would you like to explore the implementation details of the SimPy simulation code, or focus on the mathematical derivation of the M/M/2 steady-state probabilities?
+
